@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480873981535",
+    "project_id": "notifyme-c938e",
+    "storage_bucket": "notifyme-c938e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480873981535:android:0f1ee626f218647f06ddea",
+        "android_client_info": {
+          "package_name": "com.example.notifyme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJGuGOasS5M-1Jl9V_k75L2ojOQpmigM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
